@@ -82,3 +82,52 @@ font-size: 24px;
 font-weight: 400;
 
 }
+.productive-section{
+    display: flex;
+    justify-content: center;
+    
+    
+    align-items: center;
+    gap: 20px;
+}
+.productive-section h2{
+    font-weight: bold;
+    color: #4E47FF;
+    font-size: 40px;
+    padding-left: 0;
+    margin-bottom: 2px;
+    margin-top: 5px;
+    
+    
+}
+.productive-section p{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #000000;
+    padding-left: 0;
+    margin-top: 0px;
+    padding-right: 10px;
+}
+.productive-title{
+    
+    font-size: 25px;
+    font-weight: bold;
+    color: #252432;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+    
+    
+
+}
+.productive-bg{
+    
+    width: 600px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: #c4c2f8;
+    
+    border: none;
+    border-radius: 24px;
+}
